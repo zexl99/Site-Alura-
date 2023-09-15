@@ -5,6 +5,7 @@
     --corFundo: #00030c;
     --fontePrincipal: 'Inter';
     --botao--azul--efeito: #2d435e;
+}
 
 body{
     background-color: var(--corFundo);
